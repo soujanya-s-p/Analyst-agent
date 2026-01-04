@@ -4,7 +4,7 @@ from database_utils import load_csv_to_db, get_schema_details, execute_query
 from sql import clean_ai_sql
 # --- CONFIG ---
 MODEL_ID = "gemini-3-flash-preview" 
-API_KEY = "AIzaSyCoeyFXIPgPi5mW3Bg1KjfnF_Yioxhbvvs"
+API_KEY = "GEmini_APi-key"
 client = genai.Client(api_key=API_KEY)
 DB_PATH = "library_data.db"
 CSV_FILE = "electronics_data.csv"  # Ensure your 3k+ CSV is in the same folder!
