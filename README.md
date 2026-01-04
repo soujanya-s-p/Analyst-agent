@@ -101,7 +101,8 @@ Uses **Google Gen AI SDK (v2026)** with Gemini 3 Flash to generate **raw SQLite 
 ---
 
 ### Output
-![Outcome](Animation-1.png)
+![Test Image 1](Animation-1.gif)
+
 
 ## 📂 Project Structure
 
